@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy — Tower Rise</title>
+    <meta
+      name="description"
+      content="Privacy Policy for the Android game Tower Rise (com.towerrise.game), published by Oleksii Hnylytskyi."
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #1c1915;
+        --muted: #5c564c;
+        --line: #e4ddd0;
+        --paper: #fbf8f2;
+        --card: #fff;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background: var(--paper);
+        line-height: 1.55;
+      }
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 32px 18px 64px;
+      }
+      h1, h2, h3 {
+        font-family: "Segoe UI", Tahoma, sans-serif;
+        line-height: 1.25;
+      }
+      h1 { font-size: 2rem; margin: 0 0 8px; }
+      h2 { font-size: 1.35rem; margin: 2rem 0 0.6rem; }
+      h3 { font-size: 1.05rem; margin: 1.4rem 0 0.4rem; }
+      p, li { font-size: 1.02rem; }
+      .meta, footer { color: var(--muted); font-family: "Segoe UI", Tahoma, sans-serif; }
+      a { color: #0b5f4a; }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        background: var(--card);
+        font-family: "Segoe UI", Tahoma, sans-serif;
+        font-size: 0.95rem;
+      }
+      th, td {
+        border: 1px solid var(--line);
+        padding: 8px 10px;
+        text-align: left;
+        vertical-align: top;
+      }
+      th { background: #f3eee4; }
+      .wrap { overflow-x: auto; margin: 12px 0 20px; }
+      code { font-family: Consolas, monospace; font-size: 0.92em; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p class="meta"><a href="/">All games</a></p>
+      <h1>Privacy Policy</h1>
+      <p class="meta"><strong>Last updated:</strong> September 22, 2026</p>
+      <p>
+        This Privacy Policy describes how <strong>Tower Rise</strong> (“the App”, “we”, “us”, or “our”) collects, uses, and shares information when you use our mobile game on Android (and other platforms where the App may be made available).
+      </p>
+      <p>By installing or using the App, you agree to this Privacy Policy. If you do not agree, please do not use the App.</p>
+      <p>This policy describes the current Unity version of the App (<code>com.towerrise.game</code>). It does not describe an older WebView prototype.</p>
+
+      <h2>1. Who we are</h2>
+      <p><strong>App name:</strong> Tower Rise<br />
+        <strong>Package name:</strong> <code>com.towerrise.game</code><br />
+        <strong>Developer / Data controller:</strong> Oleksii Hnylytskyi<br />
+        <strong>Contact email:</strong> <a href="mailto:myevidentsuccess@gmail.com">myevidentsuccess@gmail.com</a></p>
+      <p>For privacy-related questions, requests, or complaints, please contact us at the email address above.</p>
+
+      <h2>2. Overview</h2>
+      <p>Tower Rise is an offline tower-defense game. You defend and upgrade a tower; combat runs on your device.</p>
+      <p>The current version does <strong>not</strong> include:</p>
+      <ul>
+        <li>An account, email sign-in, or anonymous online ID</li>
+        <li>An online leaderboard or other public profile</li>
+        <li>Advertisements or a consent form for ads</li>
+        <li>Product analytics or crash reporting sent to us or to Unity</li>
+        <li>Push or local reminders</li>
+        <li>In-app purchases or cloud saves</li>
+      </ul>
+      <p>We do <strong>not</strong> sell your personal information.</p>
+      <p>The App is for a <strong>general audience</strong> and is <strong>not</strong> directed at children. It is <strong>not</strong> enrolled in Google Play’s Families program.</p>
+
+      <h2>3. Information we collect</h2>
+      <h3>3.1 Information you provide</h3>
+      <p>The App does not ask you to enter a name, email address, password, or other account details.</p>
+      <p>If you contact us by email, we receive the email address you write from and the contents of your message. Please do not include sensitive information that is not needed for your request. We use that correspondence only to answer you and handle the issue you report. We do not use support messages for advertising.</p>
+
+      <h3>3.2 Information stored on your device (local)</h3>
+      <p>To run a session, the App keeps gameplay state in memory on your device, such as the current wave, tower upgrades, health, and in-game currency. That state is not a player account and is not uploaded by the App.</p>
+      <p>The current version does <strong>not</strong> save a run between sessions and does <strong>not</strong> sync progress to a server. Closing the App ends the session. Ordinary cache or temporary files created by the operating system stay on the device and are not sent by the App.</p>
+      <p>Clearing App storage or uninstalling the App removes local App data. Device or operating-system backups, if you have turned them on, are controlled by your device or backup provider, not by us.</p>
+
+      <h3>3.3 Advertising, analytics, and online services</h3>
+      <p>The current version does <strong>not</strong> use:</p>
+      <ul>
+        <li>Google AdMob or any other advertising SDK</li>
+        <li>Google’s User Messaging Platform (UMP) or an advertising consent form</li>
+        <li>Firebase Authentication, Cloud Firestore, Firebase Analytics, or any other Firebase product</li>
+        <li>Unity Analytics, Unity Ads, or Unity cloud diagnostics (these are disabled in the project)</li>
+        <li>A public nickname, leaderboard entry, or other user-generated content</li>
+        <li>Local or remote notifications</li>
+      </ul>
+      <p>The Android release build does not request the <code>INTERNET</code> permission, an advertising identifier, precise location, camera, microphone, or contacts.</p>
+
+      <h3>3.4 Information we do NOT collect</h3>
+      <p>We do <strong>not</strong> intentionally collect:</p>
+      <ul>
+        <li>Email address or phone number (unless you email us)</li>
+        <li>A display name or public player profile</li>
+        <li>Precise GPS location</li>
+        <li>Contacts, photos, microphone, or camera data</li>
+        <li>Advertising ID</li>
+        <li>Payment or financial information (the App has no in-app purchases)</li>
+      </ul>
+
+      <h2>4. How we use your information</h2>
+      <div class="wrap">
+        <table>
+          <thead>
+            <tr><th>Purpose</th><th>Legal basis (where applicable)</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Run the current game session on your device</td>
+              <td>Performance of the App’s core functionality. We do not receive that session data.</td>
+            </tr>
+            <tr>
+              <td>Read and reply to email you choose to send</td>
+              <td>Your request to contact us</td>
+            </tr>
+            <tr>
+              <td>Comply with legal obligations</td>
+              <td>Legal requirement</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>We do <strong>not</strong> use your data for advertising, profiling, or automated decision-making that produces legal or similarly significant effects.</p>
+
+      <h2>5. Data sharing and third parties</h2>
+      <p>We share data only in these cases:</p>
+      <div class="wrap">
+        <table>
+          <thead>
+            <tr><th>Recipient</th><th>Data shared</th><th>Purpose</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Email providers</strong> used to deliver mail</td>
+              <td>Your email address and message, <strong>only if you write to us</strong></td>
+              <td>Deliver and store support correspondence</td>
+            </tr>
+            <tr>
+              <td><strong>Google LLC (Google Play)</strong></td>
+              <td>Standard Play distribution data</td>
+              <td>App distribution, if you install the App from Google Play</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>Gameplay is not sent to Firebase, AdMob, Unity Analytics, or other analytics or advertising services, because those services are not included.</p>
+      <p>We do <strong>not</strong> sell, rent, or trade your personal information to third parties for their marketing purposes.</p>
+      <p>If you email us, your message may be stored by the email service on servers outside your country, under that provider’s terms.</p>
+
+      <h2>6. Data retention</h2>
+      <div class="wrap">
+        <table>
+          <thead>
+            <tr><th>Data type</th><th>Retention</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>In-session gameplay</strong></td>
+              <td>Kept in memory for the current session. It is not stored as a saved run after the App process ends.</td>
+            </tr>
+            <tr>
+              <td><strong>Local cache or temporary App files</strong></td>
+              <td>Until you uninstall the App or clear App data, or until the operating system removes them</td>
+            </tr>
+            <tr>
+              <td><strong>Support email</strong></td>
+              <td>Until we have finished handling your request, unless a longer period is required by law. You may ask us to delete it.</td>
+            </tr>
+            <tr>
+              <td><strong>Google Play distribution data</strong></td>
+              <td>Retained by Google under <a href="https://policies.google.com/privacy">Google’s policies</a>, not in a database we operate</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>We do not keep a server database of players or gameplay.</p>
+
+      <h2>7. Data security</h2>
+      <p>The App does not transmit gameplay to our servers, because it has no player backend. Support email is protected by the email services that carry it.</p>
+      <p>No method of transmission or storage is 100% secure. We cannot guarantee absolute security.</p>
+
+      <h2>8. Your rights and choices</h2>
+      <p>Depending on your location, you may have the right to:</p>
+      <ul>
+        <li><strong>Access</strong> the personal data we hold about you</li>
+        <li><strong>Correct</strong> inaccurate data</li>
+        <li><strong>Delete</strong> your data</li>
+        <li><strong>Object</strong> to or <strong>restrict</strong> certain processing</li>
+        <li><strong>Withdraw consent</strong> where processing is based on consent</li>
+        <li><strong>Lodge a complaint</strong> with your local data protection authority</li>
+      </ul>
+      <h3>How to exercise your rights</h3>
+      <ol>
+        <li><strong>Local data:</strong> Uninstall the App or clear App storage in Android Settings → Apps → Tower Rise → Storage → Clear data.</li>
+        <li><strong>Online profile or leaderboard:</strong> There is none. There is no anonymous account to delete.</li>
+        <li><strong>Support email:</strong> Email myevidentsuccess@gmail.com and ask us to delete the correspondence. Because we do not have an in-app account, we can act only on the mailbox and details you provide.</li>
+        <li><strong>Ads, advertising ID, and analytics:</strong> The App does not use them. You do not need an in-app privacy toggle for advertising consent.</li>
+      </ol>
+      <p>We will respond to requests within a reasonable timeframe and as required by applicable law (typically within 30 days).</p>
+
+      <h2>9. Children’s privacy</h2>
+      <p>Tower Rise is intended for a <strong>general audience age 13 and over</strong>. It is <strong>not</strong> directed at children under 13 (or the applicable digital-consent age in your jurisdiction). It is <strong>not</strong> designed for Google Play’s Families program, and we do <strong>not</strong> knowingly collect personal information from children.</p>
+      <p>The App does not serve ads.</p>
+      <p>If you are a parent or guardian and believe your child has sent us personal information (for example by email), please contact us at myevidentsuccess@gmail.com and we will take steps to delete such information.</p>
+
+      <h2>10. International users</h2>
+      <p>If you access the App from the European Economic Area (EEA), United Kingdom, or other regions with data protection laws, you have the rights described in Section 8.</p>
+      <p>The App does not transfer gameplay data to us. We do not use Google Firebase or AdMob as processors for this App. If you email us, that message is handled by email providers, which may process it outside your country.</p>
+
+      <h2>11. Changes to this Privacy Policy</h2>
+      <p>We may update this Privacy Policy from time to time. We will post the updated version on this page and change the <strong>“Last updated”</strong> date at the top.</p>
+      <p>For material changes, we may also notify you through the App or the Google Play listing. Continued use of the App after changes constitutes acceptance of the updated Privacy Policy.</p>
+
+      <h2>12. Contact us</h2>
+      <p>If you have questions about this Privacy Policy or our data practices, please contact:</p>
+      <p><strong>Oleksii Hnylytskyi</strong><br />
+        Email: <a href="mailto:myevidentsuccess@gmail.com">myevidentsuccess@gmail.com</a></p>
+
+      <h2>13. Summary (plain language)</h2>
+      <div class="wrap">
+        <table>
+          <thead>
+            <tr><th>Question</th><th>Answer</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Do I need an account?</td><td>No.</td></tr>
+            <tr><td>Is my name public?</td><td>No. There is no leaderboard or public profile.</td></tr>
+            <tr><td>Are there ads?</td><td>No.</td></tr>
+            <tr><td>Are there notifications?</td><td>No.</td></tr>
+            <tr><td>Is analytics collected?</td><td>No. Unity Analytics, Unity Ads, and Unity cloud diagnostics are off.</td></tr>
+            <tr><td>Is data sold?</td><td>No.</td></tr>
+            <tr><td>Can I delete my data?</td><td>Yes. Clear App data or uninstall. Email us to delete a support message. There is no online player record.</td></tr>
+            <tr><td>Who processes my data?</td><td>The game runs on your device. Google Play only if you install from Play. Email providers only if you write to us.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <footer>
+        <p>This Privacy Policy applies to Tower Rise (<code>com.towerrise.game</code>) published by Oleksii Hnylytskyi.</p>
+      </footer>
+    </main>
+  </body>
+</html>
